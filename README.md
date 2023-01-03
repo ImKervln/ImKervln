@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ImKervln
-- 👀 I’m interested in ... Envionrmentalism - Politics - Space & Monarchism
+- 👀 I’m interested in ... Computers - Politics - Space and Video games 
 - 🌱 I’m currently learning ... Programming 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
