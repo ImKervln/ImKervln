@@ -6,7 +6,7 @@
 - AI Engineering
   
 - 💞️ I’m looking to collaborate on cybersecurity learning projects, open source security tools, Python automation scripts, and more beginner friendly security labs that help simulate real world threats and defenses.
-- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/kervin-jacquet-35021a74
+
 
 <!---
 ImKervln/ImKervln is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
